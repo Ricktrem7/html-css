@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{ background-image: linear-gradient(to right, #C4EEF2, #A67458);
+
+}
+main{
+  background-color: white;
+   border-radius: 0%; 
+}
