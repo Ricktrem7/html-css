@@ -50,6 +50,7 @@ header {
   padding-top: 40px;
   max-width: 1700px;
   padding-bottom: 50px;
+  font-size: bolder;
 }
 
 header>h1 {
