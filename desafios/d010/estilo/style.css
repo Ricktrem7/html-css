@@ -26,8 +26,20 @@
 }
 
 
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
 body {
-  background-color: var(--cor2);
+  background-color: var(--cor7);
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  height: 90%;
+  width: 90%;
+
 }
 
 header {
@@ -36,6 +48,8 @@ header {
   min-height: 150px;
   text-align: center;
   padding-top: 40px;
+  max-width: 1700px;
+  padding-bottom: 50px;
 }
 
 header>h1 {
